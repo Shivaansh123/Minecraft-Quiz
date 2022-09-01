@@ -1,0 +1,17 @@
+
+body{
+    text-align: center; 
+    background-image: url(https://wallpaperaccess.com/full/171177.jpg);
+    opacity: 100%;
+    text
+}
+#form{ margin-left: 500px;
+    border: 10px solid rgb(255, 0, 0);
+     border-radius: 20px; width: 500px;
+      background: rgb(255, 255, 255);
+     }
+#button{
+    background-color: aqua;
+    height: 70px;
+    width: 100px;
+}
